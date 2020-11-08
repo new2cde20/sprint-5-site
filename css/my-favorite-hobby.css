@@ -1,0 +1,41 @@
+/* This is the CSS page about my favorite hobby
+Janeise Davis
+CPSC 44000-001 */
+
+body {
+	border-style: solid;
+	border-width: px;
+	border-color: black;
+	position: absolute;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;    
+  }
+
+/* .center {
+    text-align: center;
+    border: 3px solid green;
+  } */
+
+header {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+footer {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+.last_paragraph {
+    transform: translate(5px, 0px);
+  }
+
+.second_to_last_paragraph {
+    transform: translate(5px, 0px);
+  }

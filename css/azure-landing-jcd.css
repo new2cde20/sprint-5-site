@@ -1,0 +1,31 @@
+/* This is the CSS page for my landing page */
+
+body {
+	border-style: solid;
+	border-width: px;
+	border-color: black;
+	position: absolute;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+	padding: 10px;
+	text-align: center;  
+  }
+
+header {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+footer {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+tr {
+	text-align: center;
+  }
